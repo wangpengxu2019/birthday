@@ -62,15 +62,15 @@ var config = {
      */
     imgs: {
         "送给我": "./imgs/songxinxin.jpeg",
-        "也是我们在一起的第219天": "./imgs/date.jpeg",
-        "可爱的样子": "./imgs/keai.jpeg",
-        "性感的样子": "./imgs/xinggan.jpeg",
-        "霸道的样子": "./imgs/badao.jpeg",
-        "委屈的样子": "./imgs/weiqu.jpeg",
-        "温柔的样子": "./imgs/wenrou.jpeg",
-        "一切都是我喜欢的样子": "./imgs/xihuan.jpeg",
+        "也是我们在一起的第219天": "./imgs/date.jpg",
+        "可爱的样子": "./imgs/keai.jpg",
+        "性感的样子": "./imgs/xinggan.jpg",
+        "霸道的样子": "./imgs/badao.jpg",
+        "委屈的样子": "./imgs/weiqu.jpg",
+        "温柔的样子": "./imgs/wenrou.jpg",
+        "一切都是我喜欢的样子": "./imgs/xihuan.jpg",
         "过完生日就18岁了（确定）": "./imgs/shiba.jpeg",
-        "都没能给宝贝带来幸福和喜悦": "./imgs/killmyself.jpeg",
+        "都没能给宝贝带来幸福和喜悦": "./imgs/killmyself.jpg",
         "我深刻的认识到了自己的错误": "./imgs/gui.jpeg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
